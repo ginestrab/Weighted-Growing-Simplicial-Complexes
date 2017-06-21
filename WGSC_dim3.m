@@ -12,7 +12,7 @@
 %  
 % If you use this code please cite the following two papers:
 %
-%[1] O. T. Courtney and G. Bianconi, arXiv preprint, arXiv:1703.01187 (2017)
+%[1] O. T. Courtney and G. Bianconi, "Weighted growing simplicial complexes" Phys. Rev. E 95, 062301  (2017).
 %[2] G. Bianconi, C. Rahmede  'Network geometry with flavor: From complexity to quantum geometry.' 
 %	   Physical Review E 93 032315 (2016).
 %
